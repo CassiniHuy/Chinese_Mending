@@ -2,7 +2,7 @@
 
 The task:
 
-![example](./example.png)
+![example](https://github.com/CassiniHuy/Chinese_Mending/example.png)
 
 The 1st columns are the original image. 
 The 2nd columns are the 'stained' image. 
@@ -11,7 +11,7 @@ And the 4th columns are the what we want to get from input(2nd column).
 
 You can comprehend this process as following, and GAN achieve it at a single step:
 
-![steps](./steps.png)
+![steps](https://github.com/CassiniHuy/Chinese_Mending/steps.png)
 
 We use a modified edge-connect model to realize it. 
 
